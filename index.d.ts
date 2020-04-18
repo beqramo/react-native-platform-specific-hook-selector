@@ -1,5 +1,10 @@
 declare module "react-native-dialogs";
-declare module "react-native-platform-specific-hook-selector";
+
+declare module "react-native-platform-specific-hook-selector" {
+  export default function useBaseActionSheetPicker(
+    option: useBaseActionSheetPickerProps
+  ): UseBaseActionSheetPicker;
+}
 
 type PickerOptions = string[];
 type UseBaseActionSheetPicker = {

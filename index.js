@@ -1,4 +1,3 @@
-import useBaseActionSheetPicker from "./src/index.ts";
-export * from "./lib/index.d";
+import useBaseActionSheetPicker from "./lib/index";
 
 export default useBaseActionSheetPicker;

@@ -17,7 +17,8 @@
     "baseUrl": "./",      
   },
   "include": ["src"],
-  "exclude": [
+  "exclude": [  
+    "index.d.ts",
     "node_modules", 
     "**/__tests__/*",
   ],
