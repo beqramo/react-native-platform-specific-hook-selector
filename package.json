@@ -1,0 +1,29 @@
+{
+  "name": "react-native-platform-specific-hook-selector",
+  "version": "1.0.0",
+  "description": "Simple wrapper for actionSheetIOS and native android picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beka Kokhodze",
+  "license": "ISC",
+  "keywords": [
+    "react-native",
+    "react-native-component",
+    "react",
+    "react native",
+    "RN",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "select",
+    "selector",
+    "actionSheet",
+    "actionSheetIOS",
+    "picker",
+    "picker android",
+    "hook"
+  ]
+}
