@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es2017", "es7", "es6", "ES2018","ES2019"],
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "noUnusedParameters": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "jsx": "react-native",                    
+    "moduleResolution": "node",           
+    "baseUrl": "./",      
+  },
+  "include": ["src"],
+  "exclude": [
+    "node_modules", 
+    "**/__tests__/*",
+  ],
+  "typeRoots": [
+    "./node_modules/@types",
+    "./index.d.ts"
+  ],    
+
+}
