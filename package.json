@@ -1,6 +1,6 @@
 {
   "name": "react-native-platform-specific-hook-selector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple wrapper for actionSheetIOS and native android picker",
   "main": "index.js",
   "types": "index.d.ts",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/beqramo/react-native-platform-specific-hook-selector/issues"
   },
-  "homepage": "https://github.com/beqramo/react-native-platform-specific-hook-selector",
+  "homepage": "https://github.com/beqramo/react-native-platform-specific-hook-selector#readme",
   "author": "Beka Kokhodze",
   "license": "ISC",
   "keywords": [
