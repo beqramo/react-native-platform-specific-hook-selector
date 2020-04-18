@@ -3,7 +3,7 @@ Hook based simple wrapper for actionSheetIOS and native android picker. under th
 
 |                                                      Showcase IOS                                                      |                                                    Showcase Android                                                    |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
-| ![](https://github.com/beqramo/react-native-platform-specific-hook-selector/blob/master/assets/ios.gif) | ![](https://github.com/beqramo/react-native-platform-specific-hook-selector/blob/master/assets/android.gif) |
+| ![](https://user-images.githubusercontent.com/40486471/79643253-28b06780-81b3-11ea-8cb7-3b2703a2cfe0.gif) | ![](https://user-images.githubusercontent.com/40486471/79643230-0fa7b680-81b3-11ea-9829-1980e5156df6.gif) |
 
 ## Installation
 
