@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Platform, ActionSheetIOS } from "react-native";
 import DialogAndroid from "react-native-dialogs";
-import "../index";
+import "./index.d";
 
 const useBaseActionSheetPicker = ({
   cancelText = "Cancel",

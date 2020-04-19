@@ -14,11 +14,11 @@
     "noImplicitAny": true,
     "jsx": "react-native",                    
     "moduleResolution": "node",           
-    "baseUrl": "./",      
+    "baseUrl": ".",      
   },
   "include": ["src"],
   "exclude": [  
-    "index.d.ts",
+    "src/index.d.ts",
     "node_modules", 
     "**/__tests__/*",
   ],
