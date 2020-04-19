@@ -18,7 +18,7 @@ const useBaseActionSheetPicker = ({
   const renderIOSActionSheet = (options: PickerOptions): void => {
     ActionSheetIOS.showActionSheetWithOptions(
       {
-        options: [cancelText, ...options.map((val) => val)],
+        options: [cancelText, ...options],
         cancelButtonIndex: 0,
         title,
       },
