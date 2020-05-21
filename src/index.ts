@@ -34,7 +34,7 @@ const useBaseActionSheetPicker = ({
 
   const renderAndroidPicker = async (options: PickerOptions): Promise<void> => {
     const result = await DialogAndroid.showPicker(title, null, {
-      items: [...options.map((val) => ({ label: val, id: val }))],
+      items: options.map((val) => ({ label: val, id: val })),
     });
 
     if (result.selectedItem) {
