@@ -1,6 +1,6 @@
 {
   "name": "react-native-platform-specific-hook-selector",
-  "version": "1.0.3",
+  "version": "1.0.41",
   "description": "Simple wrapper for actionSheetIOS and native android picker",
   "main": "src/index.ts",
   "types": "src/index.d.ts",
@@ -54,7 +54,8 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-native": "*"
+    "react-native": "*",
+    "react-native-dialogs": "*"
 
   }
 }

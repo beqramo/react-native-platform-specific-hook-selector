@@ -44,10 +44,7 @@ const useBaseActionSheetPicker = ({
     }
   };
 
-  return {
-    selectedItem,
-    renderPicker,
-  };
+  return [selectedItem, renderPicker];
 };
 
 export default useBaseActionSheetPicker;
